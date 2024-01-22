@@ -13,14 +13,14 @@
 ### What is not allowed?
 Your pull request will be rejected if your content has following traits:
 
-- Material that is copywrit protected.
-- Course reading, lab exercies, homework, problem solutions.
+- Material that is copywrite protected.
+- Dayliy drill course reading, lab exercies, homework, problem solutions.
 - Sentitive information (be mindful about post in public space!).
 
 ### How can I contribute?
 In real life software development, programmers usually contribute their code by making a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `main` branch, and create [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to discuss with other programmers when they found potential bugs.
 
-- Make an [Issue](https://github.com/grinnell-cs/csc208-open-share/issues) ticket if you want to discuss any topics, or spot any problems it the content committed by others.
+- Make an [Issue](https://github.com/grinnell-cs/csc208-open-share/issues) ticket if you would like to discuss any topics, or spot any problems in the content committed by others.
 - Make a [Pull Request](https://github.com/grinnell-cs/csc208-open-share/pulls) if you would like to share your resources.
 
 
